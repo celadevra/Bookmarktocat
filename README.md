@@ -7,4 +7,6 @@ Bookmarktocat
 
 [自由/开源/互联网文化](foss-internet-culture.md)
 
+[教程指南](howto-tuts.md)
+
 [施工中](in-progress.md)
