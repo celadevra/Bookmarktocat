@@ -1,6 +1,8 @@
 # Rails/Ruby
 
 - [ ] [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)
+- [X] [Ruby和Rails入门参考书](https://ruby-china.org/wiki/books)
+- [ ] [Ruby与Rails开发书单](http://book.douban.com/doulist/1222802/)
 
 # Rust
 
