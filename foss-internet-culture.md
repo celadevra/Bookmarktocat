@@ -7,6 +7,10 @@
 # Philosophy
 
 - [ ] [Sequences - Lesswrong](http://wiki.lesswrong.com/wiki/Sequences#Core_Sequences)
+- [ ] [Future of Text 2014](http://www.thefutureoftext.org/futureoftext2014.html)
+  - Source: Douban
+  - Accessed on: 3 Jul 2014
+  - 会议内容应该会在2014年11月之后上网。
 
 # Choices, so many of them
 
