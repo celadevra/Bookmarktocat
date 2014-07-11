@@ -12,3 +12,4 @@
 # Functional Programming
 
 - [ ] [OCaml for the Masses](http://queue.acm.org/detail.cfm?id=2038036)
+- [ ] [L(\Lambda)THW](http://learnlispthehardway.org/)
