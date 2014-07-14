@@ -13,3 +13,7 @@
 
 - [ ] [OCaml for the Masses](http://queue.acm.org/detail.cfm?id=2038036)
 - [ ] [L(\Lambda)THW](http://learnlispthehardway.org/)
+
+# Radio
+
+- [ ] [How to Talk to a 36-year-old Space Probe](http://www.jmalsbury.com/how-to-talk-to-a-36-year-old-space-probe-isee-3-with-gnu-radio-a-usrp-and-a-big-dish/)
