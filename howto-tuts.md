@@ -13,6 +13,9 @@
 
 - [ ] [OCaml for the Masses](http://queue.acm.org/detail.cfm?id=2038036)
 - [ ] [L(\Lambda)THW](http://learnlispthehardway.org/)
+- [ ] [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/)
+- [ ] [What I Wish I Knew when Learning Haskell](http://dev.stephendiehl.com/hask/)
+- [ ] [Recommended way learning Haskell](https://github.com/bitemyapp/learnhaskell)
 
 # Radio
 
