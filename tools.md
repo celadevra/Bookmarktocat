@@ -7,3 +7,7 @@
 # Work Methods
 
 - [X] [The Anti-Dashboard Manifesto](http://neugierig.org/software/blog/2014/07/anti-dashboard-manifesto.html) 实践中。
+
+# Font
+
+- [ ] [Google Noto Fonts](http://www.google.com/get/noto/#/) Fonts in all languages in use
