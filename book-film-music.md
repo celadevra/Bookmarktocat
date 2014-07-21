@@ -7,6 +7,8 @@
 
 # 书
 
+- [ ] [Illustrated Book of Bad Arguments](https://bookofbadarguments.com/?view=flipbook)
+
 ## 配套网站
 
 - [ ] [Why Nations Fail](http://whynationsfail.com/)
