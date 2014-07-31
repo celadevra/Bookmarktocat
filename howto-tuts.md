@@ -24,3 +24,7 @@
 # Radio
 
 - [ ] [How to Talk to a 36-year-old Space Probe](http://www.jmalsbury.com/how-to-talk-to-a-36-year-old-space-probe-isee-3-with-gnu-radio-a-usrp-and-a-big-dish/)
+
+# Data
+
+- [ ] [The Open Source Data Science Masters](http://datasciencemasters.org/)
