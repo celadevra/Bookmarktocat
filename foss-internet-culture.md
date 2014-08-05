@@ -11,7 +11,7 @@
   - Source: Douban
   - Accessed on: 3 Jul 2014
   - 会议内容应该会在2014年11月之后上网。
-- [ ] [How to turn small talk into smart conversation](http://ideas.ted.com/2014/07/28/how-to-turn-small-talk-into-smart-conversation/)
+- [X] [How to turn small talk into smart conversation](http://ideas.ted.com/2014/07/28/how-to-turn-small-talk-into-smart-conversation/)
 
 # Choices, so many of them
 
