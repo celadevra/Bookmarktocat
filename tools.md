@@ -7,6 +7,7 @@
 # Work Methods
 
 - [X] [The Anti-Dashboard Manifesto](http://neugierig.org/software/blog/2014/07/anti-dashboard-manifesto.html) 实践中。
+- [X] [Building Mindfulness](https://medium.com/@moskov/mindful-sana-e5932912d1df)
 
 # Font
 
