@@ -8,6 +8,7 @@
 
 - [X] [The Anti-Dashboard Manifesto](http://neugierig.org/software/blog/2014/07/anti-dashboard-manifesto.html) 实践中。
 - [X] [Building Mindfulness](https://medium.com/@moskov/mindful-sana-e5932912d1df)
+  * Source: Hacker News
 
 # Font
 
@@ -15,6 +16,6 @@
 
 # App
 
-- [ ] [有数计算器](http://tydligapp.com/cn/#.U8xsNUA3vGw) 基于画布（笔记本）概念的计算器
+- [X] [有数计算器](http://tydligapp.com/cn/#.U8xsNUA3vGw) 基于画布（笔记本）概念的计算器
 
 - [ ] [Runnable](http://runnable.com/) 在线编程测试环境
