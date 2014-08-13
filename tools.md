@@ -3,6 +3,7 @@
 - [X] [Prose.io](http://prose.io/#celadevra)
 
 - [ ] [pagoda](https://github.com/alagu/pagoda) 类似前者的 GitHub 在线编辑器，需self-host。
+- [X] [Roughdraft.io](http://roughdraft.io/) 从公开 Gist 自动生成页面的服务，比较适合用来做笔记本和分享技术文章。
 
 # Work Methods
 
