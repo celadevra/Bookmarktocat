@@ -10,3 +10,5 @@
 
 - [ ] [The Future of College](http://www.theatlantic.com/features/archive/2014/08/the-future-of-college/375071/)
   * 可以用来补充我关于大学对于研究是否必要的那篇文章
+- [ ] [Unschooling](http://www.outsideonline.com/outdoor-adventure/nature/Unschooling-The-Case-for-Setting-Your-Kids-Into-the-Wild.html)
+  * 更加极端的观点
