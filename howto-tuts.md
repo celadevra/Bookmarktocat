@@ -28,3 +28,7 @@
 # Data
 
 - [ ] [The Open Source Data Science Masters](http://datasciencemasters.org/)
+
+# Time Management
+- [ ] [Timeboxing series](http://www.alljapaneseallthetime.com/blog/timeboxing-trilogy-part-1-what-and-why)
+  * Also checkout the site for Japanese-learning methods.
