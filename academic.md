@@ -10,3 +10,7 @@
 ## Studying China
 
 - [ ] [World Bank China page](http://www.worldbank.org/en/country/china)
+
+## General
+
+- [ ] [Open Text Library](http://open.umn.edu/opentextbooks/)
