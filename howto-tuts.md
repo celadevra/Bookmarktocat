@@ -20,6 +20,7 @@
 - [ ] [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/)
 - [ ] [What I Wish I Knew when Learning Haskell](http://dev.stephendiehl.com/hask/)
 - [ ] [Recommended way learning Haskell](https://github.com/bitemyapp/learnhaskell)
+- [X] [The Animated Guide to Paredit](http://danmidwood.com/content/2014/11/21/animated-paredit.html)
 
 # Radio
 
