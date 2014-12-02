@@ -3,6 +3,8 @@
 - [ ] [Producing Open Source Software](http://producingoss.com/en/index.html)
   - Source: Hacker News
   - Accessed on: 1 Jul 2014
+- [ ] [The Rise of ``Worse is Better''](http://www.jwz.org/doc/worse-is-better.html)
+  - Source: Dan Grover http://dangrover.com/blog/2014/12/01/chinese-mobile-app-ui-trends.html
 
 # Philosophy
 
