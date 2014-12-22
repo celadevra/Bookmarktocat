@@ -6,7 +6,8 @@
 - [ ] [The Rise of ``Worse is Better''](http://www.jwz.org/doc/worse-is-better.html)
   - Source: Dan Grover http://dangrover.com/blog/2014/12/01/chinese-mobile-app-ui-trends.html
 - [ ] [Write the Docs](http://docs.writethedocs.org/)
-  the art of writing documentation.
+  - the art of writing documentation.
+- [ ] [How to Design Programs 2e](http://www.ccs.neu.edu/home/matthias/HtDP2e/index.html)
 
 # Philosophy
 
