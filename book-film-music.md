@@ -2,7 +2,7 @@
 
 ## 推荐发现
 
-- [X] [Jing.fm](http://jing.fm)
+- [X] ~~[Jing.fm](http://jing.fm)~~ 已关闭
 - [ ] [Hype Machine](http://hypem.com/)
 
 # 书
