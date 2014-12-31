@@ -19,3 +19,7 @@
 
 - [ ] [Arts & Culture: Proudly Sponsored By…](https://medium.com/human-parts/arts-culture-proudly-sponsored-by-7951c2f71fdd)
 - [ ] [The Meaning of Culture](http://www.newyorker.com/culture/cultural-comment/meaning-culture)
+
+# 翻译
+- [ ] [S.P.O.N. - Der Kritiker: Die Sucht nach Sinn](http://www.spiegel.de/kultur/gesellschaft/georg-diez-kolumne-jahresrueckblick-2014-in-buechern-a-1010365.html)
+  - TODO: DE to EN
