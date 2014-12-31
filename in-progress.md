@@ -1,6 +1,7 @@
 # 维基百科
 
 - [ ] [全球化](http://zh.wikipedia.org/wiki/%E5%85%A8%E7%90%83%E5%8C%96)
+- [ ] [GamerGate](http://zh.wikipedia.org/wiki/GamerGate)
 
 # Rails Project
 
