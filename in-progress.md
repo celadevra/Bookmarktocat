@@ -12,3 +12,10 @@
   * 可以用来补充我关于大学对于研究是否必要的那篇文章
 - [ ] [Unschooling](http://www.outsideonline.com/outdoor-adventure/nature/Unschooling-The-Case-for-Setting-Your-Kids-Into-the-Wild.html)
   * 更加极端的观点
+
+# Criticizing Culture
+
+对 culture 一词的批判和反思，在2014年底似乎突然出现在互联网上。
+
+- [ ] [Arts & Culture: Proudly Sponsored By…](https://medium.com/human-parts/arts-culture-proudly-sponsored-by-7951c2f71fdd)
+- [ ] [The Meaning of Culture](http://www.newyorker.com/culture/cultural-comment/meaning-culture)
