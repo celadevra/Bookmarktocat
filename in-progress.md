@@ -21,6 +21,11 @@
 - [ ] [Arts & Culture: Proudly Sponsored By…](https://medium.com/human-parts/arts-culture-proudly-sponsored-by-7951c2f71fdd)
 - [ ] [The Meaning of Culture](http://www.newyorker.com/culture/cultural-comment/meaning-culture)
 
+# Has innovation (outside IT) stalled?
+- [ ] [The Golden Quarter](http://aeon.co/magazine/science/why-has-human-progress-ground-to-a-halt/)
+- [ ] [Thinkers and Tinkerers](http://www.foreignaffairs.com/articles/142590/james-surowiecki/thinkers-and-tinkerers)
+- [ ] [A Generation Lost in the Bazaar](https://queue.acm.org/detail.cfm?id=2349257&ref=fullrss)
+
 # 翻译
 - [ ] [S.P.O.N. - Der Kritiker: Die Sucht nach Sinn](http://www.spiegel.de/kultur/gesellschaft/georg-diez-kolumne-jahresrueckblick-2014-in-buechern-a-1010365.html)
   - TODO: DE to EN
