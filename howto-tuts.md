@@ -30,6 +30,15 @@
 
 - [ ] [The Open Source Data Science Masters](http://datasciencemasters.org/)
 
+# DDD
+
+DDD::
+  Document Driven Development/Design
+  
+- [ ] [How GitHub uses GitHub to document GitHub](https://github.com/blog/1939-how-github-uses-github-to-document-github)
+- [ ] [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
+- [ ] [On Documentation-Driven-Development](http://collectiveidea.com/blog/archives/2014/04/21/on-documentation-driven-development/)
+
 # Time Management
 - [X] [Timeboxing series](http://www.alljapaneseallthetime.com/blog/timeboxing-trilogy-part-1-what-and-why)
   * Also checkout the site for Japanese-learning methods.
