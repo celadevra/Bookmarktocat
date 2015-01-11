@@ -18,7 +18,7 @@
 
 对 culture 一词的批判和反思，在2014年底似乎突然出现在互联网上。
 
-- [ ] [Arts & Culture: Proudly Sponsored By…](https://medium.com/human-parts/arts-culture-proudly-sponsored-by-7951c2f71fdd)
+- [X] [Arts & Culture: Proudly Sponsored By…](https://medium.com/human-parts/arts-culture-proudly-sponsored-by-7951c2f71fdd)
 - [ ] [The Meaning of Culture](http://www.newyorker.com/culture/cultural-comment/meaning-culture)
 
 # Has innovation (outside IT) stalled?
