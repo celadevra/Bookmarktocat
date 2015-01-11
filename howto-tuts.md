@@ -21,6 +21,7 @@
 - [ ] [What I Wish I Knew when Learning Haskell](http://dev.stephendiehl.com/hask/)
 - [ ] [Recommended way learning Haskell](https://github.com/bitemyapp/learnhaskell)
 - [X] [The Animated Guide to Paredit](http://danmidwood.com/content/2014/11/21/animated-paredit.html)
+- [ ] [David I. Spivak: Category Theory for the Sciences (2014)](http://monoskop.org/log/?p=13346)
 
 # Radio
 
