@@ -1,3 +1,7 @@
+# Network
+
+- [ ] [网络基本功系列](https://community.emc.com/thread/197851?start=0&tstart=0)
+
 # Rails/Ruby
 
 - [ ] [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)
@@ -47,3 +51,7 @@ DDD::
 # Electrics
 
 - [ ] [All about Circuits](http://www.allaboutcircuits.com/)
+
+# org-mode
+
+- [ ] [The Org Manual](http://orgmode.org/org.html)
