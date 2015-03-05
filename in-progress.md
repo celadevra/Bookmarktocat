@@ -13,7 +13,7 @@
   * 可以用来补充我关于大学对于研究是否必要的那篇文章
 - [ ] [Unschooling](http://www.outsideonline.com/outdoor-adventure/nature/Unschooling-The-Case-for-Setting-Your-Kids-Into-the-Wild.html)
   * 更加极端的观点
-- [X] [https://medium.com/the-synapse/why-america-s-higher-education-needs-reform-82751aba549f](Why America’s Higher Education Needs Reform)
+- [X] [Why America’s Higher Education Needs Reform](https://medium.com/the-synapse/why-america-s-higher-education-needs-reform-82751aba549f)
 
 # Criticizing Culture
 
