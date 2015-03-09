@@ -14,6 +14,7 @@
 - [ ] [Unschooling](http://www.outsideonline.com/outdoor-adventure/nature/Unschooling-The-Case-for-Setting-Your-Kids-Into-the-Wild.html)
   * 更加极端的观点
 - [X] [Why America’s Higher Education Needs Reform](https://medium.com/the-synapse/why-america-s-higher-education-needs-reform-82751aba549f)
+- [X] [Academia's 1 Percent](https://chroniclevitae.com/news/929-academia-s-1-percent)
 
 # Criticizing Culture
 
