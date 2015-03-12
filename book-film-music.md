@@ -8,6 +8,7 @@
 # 书
 
 - [ ] [Illustrated Book of Bad Arguments](https://bookofbadarguments.com/?view=flipbook)
+- [ ] [Harry Potter and the Methods of Rationality](http://hpmor.com/)
 
 ## 配套网站
 
